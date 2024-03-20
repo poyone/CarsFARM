@@ -1,5 +1,5 @@
-import requestCars from "@/app/libs/cars/data";
-import Card from "@/app/components/cars/car"
+import requestCars from "@/libs/cars/data";
+import Card from "@/components/cars/car"
 
 export default async function CarsLibrary({query}) {
     

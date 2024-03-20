@@ -1,6 +1,6 @@
 "use client"
 
-import Select from "@/app/components/cars/select"
+import Select from "@/components/cars/select"
 import { useRouter } from 'next/navigation';
 import { useSearchParams } from 'next/navigation';
 

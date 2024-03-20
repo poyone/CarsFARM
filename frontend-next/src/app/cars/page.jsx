@@ -1,6 +1,6 @@
-import requestCars  from "@/app/libs/cars/data"
-import SearchForm from "@/app/components/cars/searchForm"
-import CarsLibrary from "@/app/components/cars/carLibrary"
+import requestCars  from "@/libs/cars/data"
+import SearchForm from "@/components/cars/searchForm"
+import CarsLibrary from "@/components/cars/carLibrary"
 
 export default async function Page({searchParams}) {
     
